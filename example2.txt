@@ -1,2 +1,4 @@
 Hi this is my second file with some color codes:
 #F0F8FF: A pale shade of blue known as AliceBlue.
+#C0FFEE: A light shade of greenish-blue resembling the color of coffee.
+rgb(255, 105, 180): A shade of pinkish-red.
