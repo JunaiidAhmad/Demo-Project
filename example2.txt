@@ -1,0 +1,2 @@
+Hi this is my second file with some color codes:
+#F0F8FF: A pale shade of blue known as AliceBlue.
